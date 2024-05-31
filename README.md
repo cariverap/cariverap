@@ -20,6 +20,6 @@ Apasionada de la tecnología, actualmente me encuentro estudiando Analisis de Da
 
 ---
 
-[![LinkedIn](https://img.shiels.io/badge/LinkedIn-Catalina-Rivera-Peña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&lablelColor=101010)](https://www.linkedin.com/in/catalinabelenriverape%C3%B1a/)
+[![LinkedIn](https://img.shiels.io/badge/LinkedIn-Catalina-Rivera-Peña-0077B5?style=for-the-badge&logo-linkedin&logoColor-white&lablelColor=101010)](https://www.linkedin.com/in/catalinabelenriverape%C3%B1a/)
 
 
