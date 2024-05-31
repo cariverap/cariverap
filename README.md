@@ -15,11 +15,11 @@
 
 ---
 
-#### Habilidades: 
- - Pyhton
+#### Otras Habilidades: 
  - Office
  - SQL
  - Ciencias de la Tierra
+ - Sistemas de Información Geográfica (ArcGIS, QGIS, ENVI, etc)
 
 📫 How to reach me **cariverap98@gmail.com**
 
