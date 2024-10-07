@@ -1,5 +1,10 @@
 ## Hi there 👋
 ---
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/cariverap/cariverap/blob/main/banner_github.png" width="800"/>
+</div>
+
+
 <h1 align="center">Hola👋, Soy Catalina Rivera Peña</h1>
 <h3 align="center">Apasionada de la tecnología, actualmente me encuentro estudiando Análisis de Datos en el prestigioso Bootcamp Tripleten Latam</h3>
 
