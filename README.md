@@ -4,20 +4,20 @@
   <img decoding="async" src="https://github.com/cariverap/cariverap/blob/main/banner_github.png" width="800"/>
 </div>
 
-<h1 aling="center">
-  Hola soy Catalina. ¡Encantada de conocerte!
+<h1 align="center">Hola soy Catalina. ¡Encantada de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<h1 align="center">Hola👋, Soy Catalina Rivera Peña</h1>
-<h3 align="center">Apasionada de la tecnología, actualmente me encuentro estudiando Análisis de Datos en el prestigioso Bootcamp Tripleten Latam</h3>
+<h3 align="center"> Soy una apasionada de la Tecnología y la Ciencia </h3>
 
 ---
 #### Sobre mi: 
-- 🔭 Soy aspirante a Analista de Datos
-- 🌱 Estudiando y practicando lenguaje Python y SQL
-- 🌎 También me dedico a las Ciencias de la Tierra 🌋
-- 🤓 Busco ampliar mis conocimientos
+🔭 Me encuentro en busqueda de trabajo y constantemente perfeccionandome en nuevas tecnologías 💪
+
+🌱 Estoy estudiando y practicando lenguaje SQL y Python 💻 , sin dejar de lado las increíbles herramientas de Microsoft.
+
+🤓 Busco ampliar mis conocimientos ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo
+
+🌎 También me dedico a las Ciencias de la Tierra 🌋
 
 ---
 <h3 align="left">Languages and Tools:</h3>
