@@ -5,9 +5,10 @@
 
 ---
 #### Sobre mi: 
-- 🔭 Soy una aspirante a Analista de Datos
-- 🌱 Estudiando y practicando lenguaje Python y SQL  
-- Busco ampliar mis conocimientos
+- 🔭 Soy aspirante a Analista de Datos
+- 🌱 Estudiando y practicando lenguaje Python y SQL
+- 🌎 También me dedico a las Ciencias de la Tierra 🌋
+- 🤓 Busco ampliar mis conocimientos
 
 ---
 <h3 align="left">Languages and Tools:</h3>
